@@ -3,7 +3,6 @@
 
 
 /**
-
  * main - entry block
 
  * @void: no argument
@@ -30,8 +29,7 @@ int main(void)
     
     putchar(C);
   
-  putchar('\n');
-  
-  return (0);
-  
+putchar('\n');
+
+return (0);
 }

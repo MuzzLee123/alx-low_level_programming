@@ -67,9 +67,9 @@ int main(void)
 	      c++;
 	      
 	    }
-	  
+	 
 	  b++;
-	  
+	 
 	}
       
       a++;
