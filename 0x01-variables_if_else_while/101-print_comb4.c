@@ -16,6 +16,7 @@ while (b <= '8')
 {
 c = b + 1;
 while (c <= '9')
+{
 putchar(a);
 putchar(b);
 putchar(c);
