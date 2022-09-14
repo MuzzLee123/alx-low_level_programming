@@ -1,12 +1,13 @@
-salpha - check if a letter is lowercase and uppercase
-
+#include <stdio.h> 
+/**salpha - check if a letter is lowercase and uppercase
+ *
  * @c : letter to be checked
  *
  *  *
  *
  *   * Return:1 else 0
  *
- *    */
+ */
 
  int _isalpha(int c)
 

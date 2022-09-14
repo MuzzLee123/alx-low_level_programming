@@ -1,4 +1,4 @@
-bs - returns absolute value
+/**eturns absolute value
 
  * @n : number to check
  *
