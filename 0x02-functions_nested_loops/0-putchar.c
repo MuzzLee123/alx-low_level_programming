@@ -1,25 +1,17 @@
 #include <stdio.h>
-
 #include "main.h"
-
-
-
 /**
- *
- *  * main - Entry Point
- *
- *   *
- *
- *    * Return: throws 0 on Success
- *
- *     */
+*
+* main - Entry Point
+*
+*   *
+*
+*    * Return: throws 0 on Success
+*
+*/
 
 int main(void)
-
 {
-
-	        printf("_putchar\n");
-
-		        return (0);
-
+printf("_putchar\n");
+return (0);
 }
