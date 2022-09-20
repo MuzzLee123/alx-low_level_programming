@@ -1,8 +1,7 @@
 /**
-*string - function that reverses a string.
+*string - function that reverses a string
 * @s: sting to reverse
-*  *
-*   * Return: void
+*Return: void
 */
 void rev_string(char *s)
 {
